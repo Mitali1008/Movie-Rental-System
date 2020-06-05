@@ -1,0 +1,28 @@
+1. Movie name		: JOHN WICK			2. Movie name		: JOHN WICK CHAPTER 2		
+   IMDb rating		: 7.4/10			   IMDb rating		: 7./10
+   Release date		: 14 November 2014 (India)	   Release date: 17 February 2017 (India)
+   Director		: Chad Stahelski                   Director: Chad Stahelski
+   Budget		: $20–30 million                   Budget: 4 crores USD
+   Box office		: 8.6 crores USD                   Box office: 17.15 crores USD
+   Screenplay		: Derek Kolstad                    Languages: English, Italian, Russian
+
+
+3. Movie name		: THE BOURNE IDENTITY		4. Movie name		: THE BOURNE SUPREMACY		
+   IMDb rating 		: 8.6/10			   IMDb rating		: 8.8/10
+   Initial release	: 6 June 2002 (USA)                Initial release	: 15 July 2004 (Los Angeles)
+   Director		: Doug Liman                       Director		: Paul Greengrass
+   Featured song	: Main Titles                      Featured song	: Extreme Ways
+   Box office		: 21.4 crores USD                  Box office		: 28.85 crores USD
+   Film series		: Bourne                           Story by		: Robert Ludlum
+
+
+5. Movie name		: DIE HARD			6. Movie name		: DIE HARD 2	
+   IMDb ratindg		: 8.2/10			   IMDb rating		: 7.6/10
+   Initial release	: 12 July 1988 (Westwood)          Initial release	: 2 July 1990 (USA)
+   Director		: John McTiernan                   Director		: Renny Harlin
+   Budget		: 2.8 crores USD                   Film series		: Die Hard
+   Box office		: 14.15 crores USD                 Box office		: 24 crores USD
+   Film series		: Die Hard                         Adapted from		: Nothing Lasts Forever, 58 Minutes
+	 			
+
+

@@ -1,0 +1,31 @@
+1. Movie name		: FORREST GUMP			   2. Movie name	    : UNTOUCHABLES		
+   IMDb rating		: 8.0/10			      IMDb rating	    : 7./10
+   Initial release	: 23 June 1994 (Los Angeles)          Initial release	    : 2 June 1987 (New York)
+   Director		: Robert Zemeckis                     Director		    : Brian De Palma
+   Featured song	: Forrest Gump                        Awards		    : Academy Award for Best Actor in a Supporting Role
+   Screenplay		: Eric Roth                           Screenplay            : David Mamet, Oscar Fraley
+   Awards		: Academy Award for Best Picture      Story by		    : Eliot Ness, Oscar Fraley
+
+
+
+3. Movie name		: THE GODFATHER			   4. Movie name	    : DEVIL'S ADVOCATE	
+   IMDb rating		: 8.6/10			      IMDb rating	    : 8.8/10
+   Initial release	: 14 March 1972 (New York)            Initial release	    : 13 October 1997 (Westwood)
+   Director		: Francis Ford Coppola                Director		    : Taylor Hackford
+   Featured song	: Speak Softly Love                   Story by		    : Andrew Neiderman
+   Story by		: Mario Puzo                          Screenplay	    : Tony Gilroy, Jonathan Lemkin
+   Screenplay		: Francis Coppola, Mario Puzo         Languages		    : Spanish, English, Italian, German, Mandarin
+
+	
+
+5. Movie name		: THE DEPARTED			   6. Movie name	    : THE PRESTIGE	
+   IMDb rating		: 7.9/10			      IMDb rating	    : 7.6/10
+   Initial release	: 26 September 2006 (New York)        Initial release	    : 17 October 2006 (Hollywood)
+   Director		: Martin Scorsese                     Director		    : Christopher Nolan
+   Featured song	: I'm Shipping Up to Boston           Featured song	    : Analyse
+   Box office		: 29.15 crores USD                    Box office	    : 10.97 crores USD
+   Awards		: Academy Award for Best Picture      Awards		    : Empire Award for Best Director, MORE
+	 			
+
+
+
